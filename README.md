@@ -17,6 +17,9 @@
 ### 游戏平台 | Game platform
 [![](https://img.shields.io/badge/Xbox-One-black?style=flat-square&logo=Xbox)](https://account.xbox.com/profile?gamertag=yuki233dayo)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam)](https://steamcommunity.com/id/yukidayo/)
+
+### 置顶的库 | Pinned repositories
+[![hatsuyuki280/yukicpl - GitHub](https://gh-card.dev/repos/hatsuyuki280/yukicpl.svg)](https://github.com/hatsuyuki280/yukicpl)
 <!--
 **hatsuyuki280/hatsuyuki280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
