@@ -1,5 +1,6 @@
 ### 访客计数 | Vistors Count
-[![访客计数](https://count.getloli.com/get/@hatsuyuki280?theme=rule34)](#)
+<!--[![访客计数](https://count.getloli.com/get/@hatsuyuki280?theme=rule34)](#)-->
+[![访客计数](https://count.getloli.com/get/@hatsuyuki280?theme=gelbooru-h)](#)
 
 ### 我的环境 | Platform&Tools
 [![](https://img.shields.io/badge/Linux-Debian%2010-33aadd?style=flat-square&logo=debian&logoColor=f66)](https://https://www.debian.org/)
